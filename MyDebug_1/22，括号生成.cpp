@@ -37,10 +37,12 @@ vector<string> generateParenthesis(int n) {
 
 
 
-void main()
-{
-	for (auto it : generateParenthesis(3))
-	{
-		cout << it << endl;
-	}
-}
+//void main()
+//{
+//	for (auto it : generateParenthesis(3))
+//	{
+//		cout << it << endl;
+//	}
+//
+//	cout << 9 / 2 << endl;
+//}

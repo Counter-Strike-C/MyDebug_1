@@ -42,7 +42,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpp14</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,6 +140,9 @@
     <ClCompile Include="20，有效括号.cpp" />
     <ClCompile Include="21，合并两个有序子列表.cpp" />
     <ClCompile Include="22，括号生成.cpp" />
+    <ClCompile Include="23，合并K个升序链表.cpp" />
+    <ClCompile Include="24，两两交换链表中的节点.cpp" />
+    <ClCompile Include="25，K个一组反转链表.cpp" />
     <ClCompile Include="7.数字反转.cpp" />
     <ClCompile Include="8.提取字符串中数字.cpp" />
     <ClCompile Include="9.回文数.cpp" />

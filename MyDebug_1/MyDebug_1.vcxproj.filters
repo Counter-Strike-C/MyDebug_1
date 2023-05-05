@@ -75,5 +75,14 @@
     <ClCompile Include="22，括号生成.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="23，合并K个升序链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24，两两交换链表中的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25，K个一组反转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

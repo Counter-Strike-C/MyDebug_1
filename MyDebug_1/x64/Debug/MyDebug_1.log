@@ -1,3 +1,2 @@
-﻿  22，括号生成.cpp
-C:\Users\陈欣\source\repos\MyDebug_1\MyDebug_1\22，括号生成.cpp(41,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  MyDebug_1.vcxproj -> C:\Users\陈欣\source\repos\MyDebug_1\x64\Debug\MyDebug_1.exe
+﻿  24，两两交换链表中的节点.cpp
+  MyDebug_1.vcxproj -> D:\source\repos\MyLeetCodeDebug_1\MyDebug_1\x64\Debug\MyDebug_1.exe
