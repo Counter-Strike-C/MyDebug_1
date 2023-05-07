@@ -84,5 +84,17 @@
     <ClCompile Include="25，K个一组反转链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="28，找出字符串中第一个匹配项的下标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29，两数相除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30，串联所有单词的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30，串联左右单词的子串_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

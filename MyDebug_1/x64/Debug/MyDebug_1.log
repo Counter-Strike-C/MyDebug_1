@@ -1,2 +1,5 @@
-﻿  24，两两交换链表中的节点.cpp
-  MyDebug_1.vcxproj -> D:\source\repos\MyLeetCodeDebug_1\MyDebug_1\x64\Debug\MyDebug_1.exe
+﻿  30，串联所有单词的子串.cpp
+C:\Users\陈欣\source\repos\MyDebug_1\MyDebug_1\30，串联所有单词的子串.cpp(41,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\陈欣\source\repos\MyDebug_1\MyDebug_1\30，串联所有单词的子串.cpp(81,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\陈欣\source\repos\MyDebug_1\MyDebug_1\30，串联所有单词的子串.cpp(99,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  MyDebug_1.vcxproj -> C:\Users\陈欣\source\repos\MyDebug_1\x64\Debug\MyDebug_1.exe
