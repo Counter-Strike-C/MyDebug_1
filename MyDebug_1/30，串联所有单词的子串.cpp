@@ -46,13 +46,6 @@ vector<int> strStr(string haystack, string needle) {
 	}
 	return result;
 
-	//if (j >= needle.size())
-	//{
-	//	return i - needle.size();  //返回匹配模式串中的首字符索引
-	//}
-
-	//else
-	//	return -1;
 }
 
 void swap(string& s1, string& s2)
@@ -93,11 +86,8 @@ vector<int> findSubstring(string s, vector<string>& words) {
 
 	for (auto it : result)
 	{
-
 		vector<int> result = strStr(s, it);
-
 		out.insert(out.end(), result.begin(), result.end());
-
 	}
 
 	return out;
